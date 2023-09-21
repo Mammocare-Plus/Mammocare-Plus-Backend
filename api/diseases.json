@@ -1,0 +1,110 @@
+
+
+{
+    "diseases":
+[
+{
+    "name": "Eczema",
+    "description": "Eczema is a common skin condition that causes redness, itching, and inflammation. It can affect people of all ages and often appears as dry, scaly patches on the skin. Eczema can be triggered by various factors, including allergies, stress, and environmental irritants.",
+    "prescription": "Treatment for eczema typically includes moisturizing the affected areas regularly, using topical corticosteroids to reduce inflammation, and avoiding known triggers. In severe cases, your doctor may prescribe oral medications or recommend phototherapy.",
+    "symptoms": "Symptoms of eczema can vary but often include redness, itching, dry skin, and the appearance of small, raised bumps or blisters. These symptoms can be particularly bothersome and may lead to sleep disturbances and reduced quality of life.",
+    "isActive": true,
+    "hindi_name": "एक्जिमा",
+    "hindi_description": "एक्जिमा एक सामान्य त्वचा स्थिति है जिससे त्वचा पर लालिमा, खुजली, और सूजन होती है। इसका प्रभाव सभी आयु वर्गों के लोगों पर पड़ सकता है और यह अक्सर त्वचा पर सूखे, त्वचा के फूटने वाले टुकड़ों के रूप में प्रकट होता है। एक्जिमा कई प्रकार के कारकों, जैसे कि एलर्जी, तनाव, और पर्यावरणीय उत्तेजकों के द्वारा प्रेरित हो सकता है।",
+    "hindi_prescription": "एक्जिमा के लिए आमतौर पर प्रभावित क्षेत्रों को नियमित रूप से मॉइस्चराइज़ करना, सूजन को कम करने के लिए टॉपिकल कॉर्टिकोस्टेरॉयड का उपयोग करना और ज्ञात ट्रिगर्स से बचना शामिल होता है। गंभीर मामलों में, आपके डॉक्टर मौंखिक दवाओं का प्रिस्क्रिप्शन लिख सकते हैं या फिर फोटोथेरेपी की सिफारिश कर सकते हैं।"
+},
+{
+    "name": "Warts Molluscum and other Viral Infection",
+    "description": "Description for Warts Molluscum and other Viral Infection",
+    "prescription": "Prescription for Warts Molluscum and other Viral Infection",
+    "symptoms": "Symptoms for Warts Molluscum and other Viral Infection",
+    "isActive": true,
+    "hindi_name": "वार्ट्स, मोलस्कम और अन्य वायरल संक्रमण",
+    "hindi_description": "वार्ट्स, मोलस्कम और अन्य वायरल संक्रमण का विवरण",
+    "hindi_prescription": "वार्ट्स, मोलस्कम और अन्य वायरल संक्रमण के लिए प्रिस्क्रिप्शन"
+},
+{
+    "name": "Melanoma",
+    "description": "Melanoma is a type of skin cancer that develops from melanocytes, the cells that produce melanin. It is one of the most aggressive forms of skin cancer and can spread to other parts of the body if not treated early. Melanoma is often caused by exposure to UV radiation from the sun or tanning beds.",
+    "prescription": "Treatment for melanoma typically involves surgical removal of the tumor, and in some cases, nearby lymph nodes. Depending on the stage and extent of the cancer, additional therapies such as radiation",
+    "symptoms": "Symptoms of melanoma may include changes in the appearance of moles or the development of new moles, irregular borders, color variation, itching, and bleeding. It's crucial to have any suspicious moles or skin changes checked by a dermatologist.",
+    "isActive": true,
+    "hindi_name": "मेलेनोमा",
+    "hindi_description": "मेलेनोमा मेलेनोसाइट्स, वो कोशिकाएँ होती हैं जो मेलेनिन उत्पन्न करती हैं, से विकसित होने वाला एक प्रकार का त्वचा कैंसर है। यह त्वचा कैंसर के सबसे प्रचंड प्राकृतिक रूपों में से एक है और अगर समय रहते इलाज नहीं किया गया तो यह अन्य शरीर के हिस्सों में फैल सकता है। मेलेनोमा का कारण अक्सर सूरज की रेडिएशन या टैनिंग बेड से यूवी रेडिएशन के संरक्षण के कारण होता है।",
+    "hindi_description": "मेलेनोमा का इलाज आमतौर पर ट्यूमर के शल्यक्रिय निकालने का शामिल होता है, और कुछ मामलों में, नजदीकी लिम्फ नोड्स का भी। कैंसर के चरण और व्यापकता के आधार पर विशेष थेरेपी जैसे कि विकिरण, केमोथेरेपी, या टारगेटेड थेरेपी भी की जा सकती है।",
+    "hindi_prescription": "मेलेनोमा का इलाज चिकित्सक की सलाह और निर्धारित कार्ययोजना के अनुसार किया जाता है। कैंसर की पहचान की तीव्रता और फैलाव के आधार पर चिकित्सा प्रक्रियाओं की चयनिकता हो सकती है।"
+},
+{
+    "name": "Atopic Dermatitis",
+    "description": "Atopic dermatitis, also known as eczema, is a chronic skin condition characterized by red, itchy, and inflamed skin. It often begins in childhood and can persist into adulthood. The exact cause is unknown, but it's believed to be related to a combination of genetic and environmental factors.",
+    "prescription": "Treatment for atopic dermatitis includes using moisturizers, topical corticosteroids to reduce inflammation, and avoiding triggers such as irritants and allergens. In severe cases, oral medications or immunosuppressive drugs may be prescribed.",
+    "symptoms": "Symptoms of atopic dermatitis may include dry and scaly skin, intense itching, red or brownish-gray patches, and oozing or crusting. The condition can be triggered or worsened by stress, allergens, and certain foods.",
+    "isActive": true,
+    "hindi_name": "एटोपिक डर्मेटाइटिस",
+    "hindi_description": "एटोपिक डर्मेटाइटिस, जिसे एक्जिमा के रूप में भी जाना जाता है, एक जीवनभर तक चलने वाली त्वचा स्थिति है जिसमें त्वचा लाल, खुजली, और सूजन होती है। यह अक्सर बचपन में शुरू होता है और बड़े होने तक बना रह सकता है। सटीक कारण अज्ञात है, लेकिन यह माना जाता है कि यह जीनेटिक और पर्यावरणीय कारकों के संयोजन से संबंधित हो सकता है।",
+    "hindi_description": "एटोपिक डर्मेटाइटिस के इलाज में मॉइस्चराइज़र का उपयोग करना, सूजन को कम करने के लिए टॉपिकल कॉर्टिकोस्टेरॉयड का उपयोग करना, और उत्तेजक और एलर्जन जैसे ट्रिगर्स से बचने शामिल होता है। गंभीर मामलों में, मौंखिक दवाओं या इम्यूनोसप्रेसिव दवाओं का प्रिस्क्रिप्शन किया जा सकता है।",
+    "hindi_prescription": "एटोपिक डर्मेटाइटिस के इलाज में मॉइस्चराइज़र का उपयोग करना, सूजन को कम करने के लिए टॉपिकल कॉर्टिकोस्टेरॉयड का उपयोग करना, और उत्तेजक और एलर्जन जैसे ट्रिगर्स से बचना शामिल होता है। गंभीर मामलों में, मौंखिक दवाओं या इम्यूनोसप्रेसिव दवाओं का प्रिस्क्रिप्शन किया जा सकता है।"
+},
+{
+    "name": "Basal Cell Carcinoma",
+    "description": "Basal cell carcinoma is the most common type of skin cancer. It usually appears as a small, shiny bump or a red, scaly patch. While it rarely spreads to other parts of the body, early treatment is essential to prevent further growth and complications.",
+    "prescription": "The primary treatment for basal cell carcinoma is surgical removal of the tumor. Depending on the size and location of the tumor, various surgical techniques may be used, including excision, Mohs surgery, and cryotherapy.",
+    "symptoms": "Symptoms of basal cell carcinoma may include a pearly or waxy bump, a flat, flesh-colored or brown scar-like lesion, or a bleeding or scabbing sore that does not heal. It is typically found on sun-exposed areas of the skin.",
+    "isActive": true,
+    "hindi_name": "बेसल सेल कैरसिनोमा",
+    "hindi_description": "बेसल सेल कैरसिनोमा त्वचा कैंसर के सबसे सामान्य प्रकार है। यह आमतौर पर एक छोटे चमकदार बंप या एक लाल, छिला-छिली पैच के रूप में प्रकट होता है। यह कभी-कभी शरीर के अन्य हिस्सों में फैलता है, लेकिन तेजी से इलाज अगर और विकास और कठिनाइयों से बचाने के लिए महत्वपूर्ण है।",
+    "hindi_description": "बेसल सेल कैरसिनोमा का प्रमुख इलाज ट्यूमर का शल्यक्रिय निकालना है। ट्यूमर के आकार और स्थान के आधार पर अलग-अलग शल्यक्रिया प्रक्रियाएँ उपयोग की जा सकती हैं, जैसे कि उखाड़, मोह्स सर्जरी, और क्रायोथेरेपी।",
+    "hindi_prescription": "बेसल सेल कैरसिनोमा का प्रमुख इलाज ट्यूमर का शल्यक्रिय निकालना है। ट्यूमर के आकार और स्थान के आधार पर अलग-अलग शल्यक्रिया प्रक्रियाएँ उपयोग की जा सकती हैं, जैसे कि उखाड़, मोह्स सर्जरी, और क्रायोथेरेपी।"
+},
+{
+    "name": "Melanocytic Nevi (NV)",
+    "description": "Melanocytic nevi, often referred to as moles, are common pigmented skin lesions. They are usually harmless, but in some cases, they may transform into melanoma. Moles come in various shapes, sizes, and colors.",
+    "prescription": "In most cases, no treatment is required for melanocytic nevi unless they show signs of changes or atypical features. If a mole appears suspicious or undergoes changes in size, shape, color, or texture, it should be evaluated by a dermatologist.",
+    "symptoms": "Melanocytic nevi typically do not cause symptoms. They are painless and may appear anywhere on the body. However, changes in a mole's appearance, such as itching, bleeding, or ulceration, should be promptly examined by a healthcare professional.",
+    "isActive": true,
+    "hindi_name": "मेलेनोसाइटिक नेवी (NV)",
+    "hindi_description": "मेलेनोसाइटिक नेवी, जिन्हें अक्सर बिंदी कहा जाता है, सामान्य पिगमेंटेड त्वचा श्लेष्म होते हैं। आमतौर पर वे हानिपूर्ण होते हैं, लेकिन कुछ मामलों में वे मेलेनोमा में परिवर्तित हो सकते हैं। बिंदी विभिन्न आकार, आकार, और रंगों में होती हैं।",
+    "hindi_description": "मेलेनोसाइटिक नेवी के लिए आमतौर पर कोई उपचार आवश्यक नहीं होता है, जब तक कि वे परिवर्तन के संकेत या अवामूलक विशेषताएँ न दिखाएं। यदि एक बिंदी संदिग्ध दिखती है या आकार, आकार, रंग, या बनावट में परिवर्तन होता है, तो इसे एक डर्मेटोलॉजिस्ट द्वारा मूल्यांकित किया जाना चाहिए।"
+},
+{
+    "name": "Benign Keratosis-like Lesions (BKL)",
+    "description": "Benign keratosis-like lesions (BKL) are non-cancerous skin growths that often resemble warts, moles, or other benign skin conditions. They are generally harmless and do not require treatment unless they cause discomfort or cosmetic concerns.",
+    "prescription": "Most BKLs do not require treatment, but if they become painful, itchy, or cosmetically bothersome, they can be removed through various methods such as cryotherapy, laser therapy, or surgical excision.",
+    "symptoms": "Symptoms of BKLs are usually limited to the appearance of skin growths. They may look like warts, moles, or raised, scaly patches. It's important to have any skin growth that changes in size, color, shape, or texture evaluated by a dermatologist.",
+    "isActive": true,
+    "hindi_name": "सौम्य केरेटोसिस-जैसे लेशन्स (BKL)",
+    "hindi_description": "सौम्य केरेटोसिस-जैसे लेशन्स (BKL) अक्सर वार्ट्स, बिंदी, या अन्य सौम्य त्वचा स्थितियों की तरह दिखने वाले गैर-कैंसरी त्वचा वृद्धियाँ होती हैं। ये आमतौर पर हानिपूर्ण नहीं होती हैं और उन्हें कोई उपचार की आवश्यकता नहीं होती है, जब तक कि वे कष्ट या सौंदर्य संबंधित समस्या पैदा न करें।",
+    "hindi_description": "अधिकांश BKL को उपचार की आवश्यकता नहीं होती है, लेकिन अगर वे दर्दनाक, खुजली, या सौंदर्यिक तरीके से परेशानीकर हो जाते हैं, तो वे क्रायोथेरेपी, लेजर थेरेपी, या शल्यक्रिया जैसी विभिन्न विधियों से हटाई जा सकती हैं।"
+},
+{
+    "name": "Psoriasis pictures Lichen Planus and related diseases",
+    "description": "Description for Psoriasis pictures Lichen Planus and related diseases",
+    "prescription": "Prescription for Psoriasis pictures Lichen Planus and related diseases",
+    "symptoms": "Symptoms for Psoriasis pictures Lichen Planus and related diseases",
+    "isActive": true,
+    "hindi_name": "सोरायसिस चित्र लाइकेन प्लैनस और संबंधित बीमारियाँ",
+    "hindi_description": "सोरायसिस चित्र लाइकेन प्लैनस और संबंधित बीमारियों के लिए विवरण",
+    "hindi_prescription": "सोरायसिस चित्र लाइकेन प्लैनस और संबंधित बीमारियों के लिए प्रिस्क्रिप्शन"
+},
+{
+    "name": "Seborrheic Keratoses and other Benign Tumors",
+    "description": "Seborrheic keratoses are non-cancerous skin tumors that often appear as brown or black growths with a waxy texture. They are typically benign and do not require treatment unless they become irritated or bothersome.",
+    "prescription": "Treatment for seborrheic keratoses is generally not necessary, but if they cause itching, pain, or cosmetic concerns, they can be removed through procedures such as cryotherapy or laser therapy.",
+    "symptoms": "Seborrheic keratoses may be asymptomatic, but they can become itchy or painful if irritated. They are usually found on the face, chest, shoulders, or back and may vary in size and appearance.",
+    "isActive": true,
+    "hindi_name": "सेबोरेटिक केराटोसीज़ और अन्य सौम्य ट्यूमर्स",
+    "hindi_description": "सेबोरेटिक केराटोसीज़ अक्सर ब्राउन या ब्लैक वृद्धियों के रूप में प्रकट होने वाले गैर-कैंसरी त्वचा ट्यूमर्स होते हैं जिनका अक्सर मोमी बनावट का होता है। आमतौर पर वे सौम्य होते हैं और उन्हें कोई उपचार की आवश्यकता नहीं होती है, जब तक कि वे चिढ़ा दें या परेशानी पैदा न करें।",
+    "hindi_prescription": "सेबोरेटिक केराटोसीज़ के लिए उपचार आमतौर पर आवश्यक नहीं होता है, लेकिन अगर वे खुजली, दर्द, या सौंदर्य संबंधित चिंता का कारण बनते हैं, तो क्रायोथेरेपी या लेजर थेरेपी जैसी प्रक्रियाओं के माध्यम से हटा दिए जा सकते हैं।"
+},
+{
+    "name": "Tinea Ringworm Candidiasis and other Fungal Infections",
+    "description": "Description for Tinea Ringworm Candidiasis and other Fungal Infections",
+    "prescription": "Prescription for Tinea Ringworm Candidiasis and other Fungal Infections",
+    "symptoms": "Symptoms for Tinea Ringworm Candidiasis and other Fungal Infections",
+    "isActive": true,
+    "hindi_name": "टिनिया रिंगवर्म कैंडिडायसिस और अन्य कवक संक्रमण",
+    "hindi_description": "टिनिया रिंगवर्म कैंडिडायसिस और अन्य कवक संक्रमण के लिए विवरण",
+    "hindi_prescription": "टिनिया रिंगवर्म कैंडिडायसिस और अन्य कवक संक्रमण के लिए प्रिस्क्रिप्शन"
+}
+]
+}
