@@ -60,7 +60,7 @@ def upload_data(folder_path: str, remote_path: str) -> bool:
         return e
     
 def get_diseases():
-    with open('diseases.json', encoding='utf-8') as f:
+    with open(r'C:\Users\athar\OneDrive\Desktop\coding\projects\Mammocare Plus\backend\api\diseases.json', encoding='utf-8') as f:
         disease_data = json.load(f)
 
     return disease_data

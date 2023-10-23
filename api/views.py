@@ -203,7 +203,7 @@ class DiseaseViewSet(ModelViewSet):
     
     def retrieve(self, request, pk):
         user = request.user
-        if user.is_admin:
+        if user.is_active:
             disease = Disease.objects.get(id=pk)
             serializer = DiseaseSerializer(disease)
             return Response(serializer.data)
@@ -460,6 +460,7 @@ class RecordViewSet(ModelViewSet):
 
     def list(self, request):
         user = request.user
+        print(user)
         if user.is_admin:
             records = Record.objects.all()
             serializer = RecordSerializer(records, many=True)

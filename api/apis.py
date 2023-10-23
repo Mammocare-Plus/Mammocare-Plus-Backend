@@ -141,11 +141,13 @@ class DiagnosisReport(APIView):
 class RecordAfterInference(APIView):
     def post(self, request):
         try:
+            print(request.data)
             user = request.user
             patient = Patient.objects.get(user=user)
             model = request.data['model']
             prediction = request.data['prediction']
             diseases = utils.get_diseases()
+            # print(diseases)
             diseases_json = diseases['diseases']
             disease = None
             for i in diseases_json:
